@@ -1,2 +1,2 @@
-# Manual
+# Manuales
 Manuales de Wordpress
